@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: web-container
-        image: nginx:latest
+        image: mathvicky/my-app:2e6844f546118a258669131959632d3536e8f7a2
         ports:
         - containerPort: 80
