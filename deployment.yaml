@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: web-container
-        image: mathvicky/my-app:2e6844f546118a258669131959632d3536e8f7a2
+        image: mathvicky/my-app:8091378995bcc38bdea7b627547181f379fa0bb5
         ports:
         - containerPort: 80
